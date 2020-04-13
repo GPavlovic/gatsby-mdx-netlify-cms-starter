@@ -1,9 +1,9 @@
 {
   "name": "gatsby-mdx-netlify-cms-starter",
   "private": true,
-  "description": "Gatsby starter configured to work with MDX and Netlify CMS",
+  "description": "",
   "version": "0.3.0",
-  "author": "Renee Blackburn <rvrant@gmail.com>",
+  "author": "Goran Pavlovic <gp.goranpavlovic@gmail.com",
   "dependencies": {
     "@mdx-js/mdx": "^1.5.1",
     "@mdx-js/react": "^1.5.1",
@@ -29,7 +29,8 @@
     "prettier": "^1.18.2"
   },
   "keywords": [
-    "gatsby", "mdx"
+    "gatsby",
+    "mdx"
   ],
   "license": "MIT",
   "scripts": {
@@ -42,9 +43,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/renvrant/gatsby-mdx-netlify-cms-starter"
-  },
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/GPavlovic/gatsby-mdx-netlify-cms-starter"
   }
 }
